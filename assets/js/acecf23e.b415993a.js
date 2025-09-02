@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeacons=self.webpackChunkdeacons||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/activities","blogTitle":"Blog","authorsListPath":"/activities/authors"}')}}]);
