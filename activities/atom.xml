@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wtmward.github.io/deacons/activities</id>
+    <id>https://github.com/deacons/activities</id>
     <title>White Tank Mountains Ward - Deacons Quorum Blog</title>
     <updated>2025-08-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wtmward.github.io/deacons/activities"/>
+    <link rel="alternate" href="https://github.com/deacons/activities"/>
     <subtitle>White Tank Mountains Ward - Deacons Quorum Blog</subtitle>
-    <icon>https://wtmward.github.io/deacons/img/favicon.ico</icon>
+    <icon>https://github.com/deacons/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Dodgeball]]></title>
-        <id>https://wtmward.github.io/deacons/activities/dodgeball</id>
-        <link href="https://wtmward.github.io/deacons/activities/dodgeball"/>
+        <id>https://github.com/deacons/activities/dodgeball</id>
+        <link href="https://github.com/deacons/activities/dodgeball"/>
         <updated>2025-08-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This week’s activity will be held at the church.]]></summary>
         <content type="html"><![CDATA[<p>This week’s activity will be held at the church.
@@ -23,8 +23,8 @@ We’ll begin with a service project in the nursery room, then head to the gym f
 <p>Forgive me for the late night, last-minute change, but our gathering has been relocated.</p>
 <p>We’ll now be meeting at Chris Mariner’s house:</p>
 <p>📍 7213 N 183rd Ave</p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/44597-052cd6b01129cba605f47265287e6c3c.png" width="1024" height="1536" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/44919-b0b378d1d5dffc9216ea0f8510ac2611.jpeg" width="3000" height="4000" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/44597-052cd6b01129cba605f47265287e6c3c.png" width="1024" height="1536" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/44919-b0b378d1d5dffc9216ea0f8510ac2611.jpeg" width="3000" height="4000" class="img_ev3q"></p>
 <video controls="" width="1080" style="border-radius:8px;margin-top:16px"><source src="/deacons/assets/medias/44922-d838264074dc3c39f32446eb763bcc34.mp4"></video>]]></content>
         <author>
             <name>Ken McGinnis</name>
@@ -34,10 +34,10 @@ We’ll begin with a service project in the nursery room, then head to the gym f
     </entry>
     <entry>
         <title type="html"><![CDATA[Pretzel Party]]></title>
-        <id>https://wtmward.github.io/deacons/activities/pretzel-party</id>
-        <link href="https://wtmward.github.io/deacons/activities/pretzel-party"/>
+        <id>https://github.com/deacons/activities/pretzel-party</id>
+        <link href="https://github.com/deacons/activities/pretzel-party"/>
         <updated>2025-08-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/43999-febf5fdbba1e52887b2d84781f28c602.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/43999-febf5fdbba1e52887b2d84781f28c602.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -46,10 +46,10 @@ We’ll begin with a service project in the nursery room, then head to the gym f
     </entry>
     <entry>
         <title type="html"><![CDATA[Self Defense]]></title>
-        <id>https://wtmward.github.io/deacons/activities/self-defense</id>
-        <link href="https://wtmward.github.io/deacons/activities/self-defense"/>
+        <id>https://github.com/deacons/activities/self-defense</id>
+        <link href="https://github.com/deacons/activities/self-defense"/>
         <updated>2025-08-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/image-c8dcfdaa0d78f233c5ec52992647a24e.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/image-c8dcfdaa0d78f233c5ec52992647a24e.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -58,10 +58,10 @@ We’ll begin with a service project in the nursery room, then head to the gym f
     </entry>
     <entry>
         <title type="html"><![CDATA[Back 2 School Party]]></title>
-        <id>https://wtmward.github.io/deacons/activities/back-2-school-party</id>
-        <link href="https://wtmward.github.io/deacons/activities/back-2-school-party"/>
+        <id>https://github.com/deacons/activities/back-2-school-party</id>
+        <link href="https://github.com/deacons/activities/back-2-school-party"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/9bbc812a-d5e6-4de2-97b0-660ecb9f149b-a9f5b3f95cdf902f10abb70e1ab8de40.png" width="400" height="600" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/9bbc812a-d5e6-4de2-97b0-660ecb9f149b-a9f5b3f95cdf902f10abb70e1ab8de40.png" width="400" height="600" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -71,8 +71,8 @@ We’ll begin with a service project in the nursery room, then head to the gym f
     </entry>
     <entry>
         <title type="html"><![CDATA[Chopped, Jr. - No Bake Ed.]]></title>
-        <id>https://wtmward.github.io/deacons/activities/chopped-jr</id>
-        <link href="https://wtmward.github.io/deacons/activities/chopped-jr"/>
+        <id>https://github.com/deacons/activities/chopped-jr</id>
+        <link href="https://github.com/deacons/activities/chopped-jr"/>
         <updated>2025-07-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[🍓 YOU’RE INVITED! 🍫]]></summary>
         <content type="html"><![CDATA[<p>🍓 YOU’RE INVITED! 🍫</p>
@@ -85,7 +85,7 @@ Grab your apron and bring your creativity!</p>
 Prizes, laughs, and plenty of snacks included!</p>
 <p>👩‍🍳 Come ready to create!
 All materials provided. Just show up with your A-game and appetite!</p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/39579-84c3b43b8670f502c67aea0b8718e7d5.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/39579-84c3b43b8670f502c67aea0b8718e7d5.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -95,10 +95,10 @@ All materials provided. Just show up with your A-game and appetite!</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Mighty Change of Heart]]></title>
-        <id>https://wtmward.github.io/deacons/activities/service-project-mighty-change</id>
-        <link href="https://wtmward.github.io/deacons/activities/service-project-mighty-change"/>
+        <id>https://github.com/deacons/activities/service-project-mighty-change</id>
+        <link href="https://github.com/deacons/activities/service-project-mighty-change"/>
         <updated>2025-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/39104-52251dc66ee21305605210c18e951e2d.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/39104-52251dc66ee21305605210c18e951e2d.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -107,10 +107,10 @@ All materials provided. Just show up with your A-game and appetite!</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pool Party]]></title>
-        <id>https://wtmward.github.io/deacons/activities/pool-party</id>
-        <link href="https://wtmward.github.io/deacons/activities/pool-party"/>
+        <id>https://github.com/deacons/activities/pool-party</id>
+        <link href="https://github.com/deacons/activities/pool-party"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/image-04809868f7840b89d9c00ca28d656082.png" width="913" height="1304" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/image-04809868f7840b89d9c00ca28d656082.png" width="913" height="1304" class="img_ev3q"></p>]]></content>
         <author>
             <name>Kamden Mariner</name>
         </author>
@@ -119,10 +119,10 @@ All materials provided. Just show up with your A-game and appetite!</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Outdoor Movie]]></title>
-        <id>https://wtmward.github.io/deacons/activities/outdoor-movie</id>
-        <link href="https://wtmward.github.io/deacons/activities/outdoor-movie"/>
+        <id>https://github.com/deacons/activities/outdoor-movie</id>
+        <link href="https://github.com/deacons/activities/outdoor-movie"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/37109-f6b6ea2b621115b49da5ac916d145cbc.png" width="1024" height="1606" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/37109-f6b6ea2b621115b49da5ac916d145cbc.png" width="1024" height="1606" class="img_ev3q"></p>]]></content>
         <author>
             <name>Kamden Mariner</name>
         </author>
@@ -131,10 +131,10 @@ All materials provided. Just show up with your A-game and appetite!</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Floor]]></title>
-        <id>https://wtmward.github.io/deacons/activities/the-floor</id>
-        <link href="https://wtmward.github.io/deacons/activities/the-floor"/>
+        <id>https://github.com/deacons/activities/the-floor</id>
+        <link href="https://github.com/deacons/activities/the-floor"/>
         <updated>2025-05-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/36773-5fa9dc2530cbf1f259c40b8422a0fe72.png" width="606" height="903" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/36773-5fa9dc2530cbf1f259c40b8422a0fe72.png" width="606" height="903" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -143,8 +143,8 @@ All materials provided. Just show up with your A-game and appetite!</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ice Blocking]]></title>
-        <id>https://wtmward.github.io/deacons/activities/ice-blocking</id>
-        <link href="https://wtmward.github.io/deacons/activities/ice-blocking"/>
+        <id>https://github.com/deacons/activities/ice-blocking</id>
+        <link href="https://github.com/deacons/activities/ice-blocking"/>
         <updated>2025-05-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[❄️ Chill Thrills Alert! ❄️]]></summary>
         <content type="html"><![CDATA[<p>❄️ Chill Thrills Alert! ❄️</p>
@@ -168,9 +168,9 @@ Pickup: 8:00 PM (Parents/rides: We’ll thaw out by then, promise).</p>
 <p>P.S. Friends welcome! The more, the slippier! 😉</p>
 <p>See you on the slopes (aka Cortessa’s legendary hills)!</p>
 <p>– Jaxton Hernandez</p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/PXL_20250508_020909571.MP-d52c2b913b69f4ca7a15243a94c8e983.jpg" width="3000" height="4000" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/PXL_20250508_021710405.MP-55f9711a79bd60b622c649735c0959bf.jpg" width="4000" height="3000" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/PXL_20250508_021206594.MP-b38ddd77cc7d02a5a16e26c8132bae40.jpg" width="4000" height="3000" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/PXL_20250508_020909571.MP-d52c2b913b69f4ca7a15243a94c8e983.jpg" width="3000" height="4000" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/PXL_20250508_021710405.MP-55f9711a79bd60b622c649735c0959bf.jpg" width="4000" height="3000" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/PXL_20250508_021206594.MP-b38ddd77cc7d02a5a16e26c8132bae40.jpg" width="4000" height="3000" class="img_ev3q"></p>
 <video controls="" width="1080" style="border-radius:8px;margin-top:16px"><source src="/deacons/assets/medias/PXL_20250508_021744376-a855df5fbea6e3267e4df0974e12c69f.mp4"></video>]]></content>
         <author>
             <name>Jaxton Hernandez</name>
@@ -179,8 +179,8 @@ Pickup: 8:00 PM (Parents/rides: We’ll thaw out by then, promise).</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pottery Painting]]></title>
-        <id>https://wtmward.github.io/deacons/activities/pottery-painting</id>
-        <link href="https://wtmward.github.io/deacons/activities/pottery-painting"/>
+        <id>https://github.com/deacons/activities/pottery-painting</id>
+        <link href="https://github.com/deacons/activities/pottery-painting"/>
         <updated>2025-04-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[🚨 OPERATION BLOOM: FINAL PHASE ALERT 🚨]]></summary>
         <content type="html"><![CDATA[<p>🚨 OPERATION BLOOM: FINAL PHASE ALERT 🚨</p>
@@ -204,8 +204,8 @@ Pickup: 8:00 PM (Parents/rides: We’ll thaw out by then, promise).</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Origami]]></title>
-        <id>https://wtmward.github.io/deacons/activities/origami</id>
-        <link href="https://wtmward.github.io/deacons/activities/origami"/>
+        <id>https://github.com/deacons/activities/origami</id>
+        <link href="https://github.com/deacons/activities/origami"/>
         <updated>2025-04-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Operation Bloom is underway! Agent McG needs your stealthy skills on Wed—mission details disclosed upon arrival.]]></summary>
         <content type="html"><![CDATA[<p>Operation Bloom is underway! Agent McG needs your stealthy skills on Wed—mission details disclosed upon arrival.</p>
@@ -227,8 +227,8 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grill'n and S'mores]]></title>
-        <id>https://wtmward.github.io/deacons/activities/grill'n-and-s'mores</id>
-        <link href="https://wtmward.github.io/deacons/activities/grill'n-and-s'mores"/>
+        <id>https://github.com/deacons/activities/grill'n-and-s'mores</id>
+        <link href="https://github.com/deacons/activities/grill'n-and-s'mores"/>
         <updated>2025-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[For the activity this week, we will meet at the White Tank Library parking lot at 6 pm. We'll be grilling up some hot dogs in the White Tank Mountain Park.]]></summary>
         <content type="html"><![CDATA[<p>For the activity this week, we will meet at the White Tank Library parking lot at 6 pm. We'll be grilling up some hot dogs in the White Tank Mountain Park.</p>]]></content>
@@ -241,8 +241,8 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Easter Pageant]]></title>
-        <id>https://wtmward.github.io/deacons/activities/easter-pageant</id>
-        <link href="https://wtmward.github.io/deacons/activities/easter-pageant"/>
+        <id>https://github.com/deacons/activities/easter-pageant</id>
+        <link href="https://github.com/deacons/activities/easter-pageant"/>
         <updated>2025-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Upcoming Combined Activity – Thursday, April 17]]></summary>
         <content type="html"><![CDATA[<p>Upcoming Combined Activity – Thursday, April 17</p>
@@ -264,7 +264,7 @@ Stealth mode activated (no spoilers!)</p>
 <li>Attire: No strict dress code, but we encourage respectful and comfortable clothing.</li>
 </ul>
 <p>We’re looking forward to a wonderful evening together! Let us know if you have any questions.</p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/image-eb0a364dfc023c719f49871c271d3f2c.png" width="1349" height="1519" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/image-eb0a364dfc023c719f49871c271d3f2c.png" width="1349" height="1519" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -274,8 +274,8 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tucson Temple Trip]]></title>
-        <id>https://wtmward.github.io/deacons/activities/tucson-temple-trip</id>
-        <link href="https://wtmward.github.io/deacons/activities/tucson-temple-trip"/>
+        <id>https://github.com/deacons/activities/tucson-temple-trip</id>
+        <link href="https://github.com/deacons/activities/tucson-temple-trip"/>
         <updated>2025-03-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We have our Tucson Temple Trip on March 29th! We are meeting at the church at 100 pm.]]></summary>
         <content type="html"><![CDATA[<p>We have our Tucson Temple Trip on March 29th! We are meeting at the church at 1:30 pm and will be returning around 9:00 pm.</p>]]></content>
@@ -288,12 +288,12 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youth Rodeo]]></title>
-        <id>https://wtmward.github.io/deacons/activities/youth-rodeo</id>
-        <link href="https://wtmward.github.io/deacons/activities/youth-rodeo"/>
+        <id>https://github.com/deacons/activities/youth-rodeo</id>
+        <link href="https://github.com/deacons/activities/youth-rodeo"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/30161-28e7ec3e1238c1c94cbdd1dd740ffb1b.png" width="1382" height="1779" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/30432-f33aa2156a3aa58d6cf922797dda3766.jpeg" width="1024" height="768" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/PXL_20250313_020630126-93594dcf52e397b0560d561254fa566f.jpg" width="3000" height="4000" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/30161-28e7ec3e1238c1c94cbdd1dd740ffb1b.png" width="1382" height="1779" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/30432-f33aa2156a3aa58d6cf922797dda3766.jpeg" width="1024" height="768" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/PXL_20250313_020630126-93594dcf52e397b0560d561254fa566f.jpg" width="3000" height="4000" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -303,16 +303,16 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Semi-trucks]]></title>
-        <id>https://wtmward.github.io/deacons/activities/semi-trucks</id>
-        <link href="https://wtmward.github.io/deacons/activities/semi-trucks"/>
+        <id>https://github.com/deacons/activities/semi-trucks</id>
+        <link href="https://github.com/deacons/activities/semi-trucks"/>
         <updated>2025-03-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[For our Deacons Quorum activity this week, we’ll be meeting at Brother Shane Andrus’ home at 6:30.]]></summary>
         <content type="html"><![CDATA[<p>For our Deacons Quorum activity this week, we’ll be meeting at Brother Shane Andrus’ home at 6:30.</p>
 <p>His address is:</p>
 <div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">6524 N 175 Av</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Waddell, Arizona 85355</span><br></span></code></pre></div></div>
 <p>He’ll be showing the boys his semi trucks</p>
-<p><img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/IMG_1011-99bec3d2de0f41c302fec8ee2d0a43e1.jpg" width="4032" height="3024" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://wtmward.github.io/deacons/assets/images/IMG_2180-a25fbb2c68bcb860001e5ee5717c5b8a.jpg" width="3024" height="4032" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/IMG_1011-99bec3d2de0f41c302fec8ee2d0a43e1.jpg" width="4032" height="3024" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://github.com/deacons/assets/images/IMG_2180-a25fbb2c68bcb860001e5ee5717c5b8a.jpg" width="3024" height="4032" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -321,8 +321,8 @@ Stealth mode activated (no spoilers!)</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ping-pong Tournement]]></title>
-        <id>https://wtmward.github.io/deacons/activities/ping-pong-tournement</id>
-        <link href="https://wtmward.github.io/deacons/activities/ping-pong-tournement"/>
+        <id>https://github.com/deacons/activities/ping-pong-tournement</id>
+        <link href="https://github.com/deacons/activities/ping-pong-tournement"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ping Pong Tournament: Nixon Claims Victory]]></summary>
         <content type="html"><![CDATA[<p>Ping Pong Tournament: Nixon Claims Victory
@@ -342,8 +342,8 @@ Kobe: Put up a fierce fight in two tight matches against Lucas.
 Pierce: Showed grit in the lower bracket with back-to-back close victories.
 Keyton: Delivered a solid performance, including an 11-7 win over Tucker.</p>
 <p>Congratulations to Nixon and all players for an exciting tournament!</p>
-<p><img decoding="async" loading="lazy" alt="Ping Pong" src="https://wtmward.github.io/deacons/assets/images/image-f73053de44ea5346ae74f211de208ce8.png" width="2504" height="1644" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="Bracket" src="https://wtmward.github.io/deacons/assets/images/image001-3f8afb55ad880847a4aee30f899c54a3.png" width="2452" height="1050" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="Ping Pong" src="https://github.com/deacons/assets/images/image-f73053de44ea5346ae74f211de208ce8.png" width="2504" height="1644" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Bracket" src="https://github.com/deacons/assets/images/image001-3f8afb55ad880847a4aee30f899c54a3.png" width="2452" height="1050" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -352,15 +352,15 @@ Keyton: Delivered a solid performance, including an 11-7 win over Tucker.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Street Hockey]]></title>
-        <id>https://wtmward.github.io/deacons/activities/street-hockey</id>
-        <link href="https://wtmward.github.io/deacons/activities/street-hockey"/>
+        <id>https://github.com/deacons/activities/street-hockey</id>
+        <link href="https://github.com/deacons/activities/street-hockey"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[For our activity this week we will be playing street hockey.]]></summary>
         <content type="html"><![CDATA[<p>For our activity this week we will be playing street hockey.</p>
 <p>We will meet at the park in Cortessa at 7 p.m. and wrap up at 8 p.m.</p>
 <p>If your boys have a hockey stick, they can bring it.</p>
-<p><img decoding="async" loading="lazy" alt="021251628" src="https://wtmward.github.io/deacons/assets/images/PXL_20250220_021251628.MP-85bfa89d4d46b8dcfb9173d775bdd8bd.jpg" width="4000" height="3000" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="025035280" src="https://wtmward.github.io/deacons/assets/images/PXL_20250220_025035280.MP-d1de124571a8b906cb52dc8cc43abd2a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="021251628" src="https://github.com/deacons/assets/images/PXL_20250220_021251628.MP-85bfa89d4d46b8dcfb9173d775bdd8bd.jpg" width="4000" height="3000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="025035280" src="https://github.com/deacons/assets/images/PXL_20250220_025035280.MP-d1de124571a8b906cb52dc8cc43abd2a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
         <author>
             <name>Ken McGinnis</name>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
@@ -369,8 +369,8 @@ Keyton: Delivered a solid performance, including an 11-7 win over Tucker.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Citrus Picking]]></title>
-        <id>https://wtmward.github.io/deacons/activities/service-project-citrus-picking</id>
-        <link href="https://wtmward.github.io/deacons/activities/service-project-citrus-picking"/>
+        <id>https://github.com/deacons/activities/service-project-citrus-picking</id>
+        <link href="https://github.com/deacons/activities/service-project-citrus-picking"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.]]></summary>
         <content type="html"><![CDATA[<p>Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.</p>
