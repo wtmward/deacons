@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/deacons/activities</id>
     <title>White Tank Mountains Ward - Deacons Quorum Blog</title>
-    <updated>2025-08-27T00:00:00.000Z</updated>
+    <updated>2025-09-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/deacons/activities"/>
     <subtitle>White Tank Mountains Ward - Deacons Quorum Blog</subtitle>
     <icon>https://github.com/deacons/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pecha Kucha]]></title>
+        <id>https://github.com/deacons/activities/pecha-kucha</id>
+        <link href="https://github.com/deacons/activities/pecha-kucha"/>
+        <updated>2025-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys!]]></summary>
+        <content type="html"><![CDATA[<p>Hey guys!
+This Wednesday night at 7pm we’re having a Pecha Kucha Night at the Cactus Lane church building 🎤⚡
+It’s gonna be fast, fun, and packed with awesome stories, bickering, and laughs. Bring your friends—don’t miss it!</p>
+<p><img decoding="async" loading="lazy" alt="image" src="https://github.com/deacons/assets/images/image-adf97b1b8bd9388ebbc89797a6eb793f.png" width="1024" height="1536" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Ken McGinnis</name>
+            <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
+        </author>
+        <category label="website" term="website"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dodgeball]]></title>
         <id>https://github.com/deacons/activities/dodgeball</id>
@@ -366,61 +382,5 @@ Keyton: Delivered a solid performance, including an 11-7 win over Tucker.</p>
             <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
         </author>
         <category label="street-hockey" term="street-hockey"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citrus Picking]]></title>
-        <id>https://github.com/deacons/activities/service-project-citrus-picking</id>
-        <link href="https://github.com/deacons/activities/service-project-citrus-picking"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.]]></summary>
-        <content type="html"><![CDATA[<p>Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.</p>
-<p>Important Change:
-We’ll be meeting at 5:30 PM tonight instead of the usual 7:00 PM due to how early it gets dark. Having more daylight will likely help us be more productive.</p>
-<p>Here are the details:</p>
-<p>Subject: Fruit Picking at Sister Madeline Smith’s</p>
-<ul>
-<li>Location: Sister Madeline Smith’s home (near Ken off 183rd).</li>
-<li>Access: The south gate will be left unlocked for us to drive in. The fruit trees are accessible from there.</li>
-<li>Fruit Details:<!-- -->
-<ul>
-<li>6 fruit trees (type unknown) need to be picked.</li>
-<li>Sister Smith will keep some fruit for juicing but has indicated there will be plenty to share.</li>
-<li>Everyone who participates can likely take home a bag of citrus.</li>
-</ul>
-</li>
-</ul>
-<p>Logistics:</p>
-<ul>
-<li>Meeting Point: Ken’s house at 5:30 PM.</li>
-<li>Agenda:<!-- -->
-<ul>
-<li>Start with prayer and a brief message about service/priesthood responsibilities.</li>
-</ul>
-</li>
-</ul>
-<p>Supplies Needed:</p>
-<ul>
-<li>We will provide:<!-- -->
-<ul>
-<li>10 buckets</li>
-<li>A couple of boxes for fruit</li>
-<li>2 ladders</li>
-</ul>
-</li>
-<li>Participants should bring:<!-- -->
-<ul>
-<li>Headlamps or flashlights</li>
-<li>Gloves</li>
-<li>Pole pickers (if available) to reach high fruit.</li>
-</ul>
-</li>
-</ul>
-<p>Looking forward to working together on this service opportunity!</p>]]></content>
-        <author>
-            <name>Ken McGinnis</name>
-            <uri>https://www.linkedin.com/in/ken-mcginnis-a6680271/</uri>
-        </author>
-        <category label="service-project" term="service-project"/>
-        <category label="citrus-picking" term="citrus-picking"/>
     </entry>
 </feed>

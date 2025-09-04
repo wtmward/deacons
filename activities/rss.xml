@@ -4,10 +4,22 @@
         <title>White Tank Mountains Ward - Deacons Quorum Blog</title>
         <link>https://github.com/deacons/activities</link>
         <description>White Tank Mountains Ward - Deacons Quorum Blog</description>
-        <lastBuildDate>Wed, 27 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pecha Kucha]]></title>
+            <link>https://github.com/deacons/activities/pecha-kucha</link>
+            <guid>https://github.com/deacons/activities/pecha-kucha</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey guys!]]></description>
+            <content:encoded><![CDATA[<p>Hey guys!
+This Wednesday night at 7pm we’re having a Pecha Kucha Night at the Cactus Lane church building 🎤⚡
+It’s gonna be fast, fun, and packed with awesome stories, bickering, and laughs. Bring your friends—don’t miss it!</p>
+<p><img decoding="async" loading="lazy" alt="image" src="https://github.com/deacons/assets/images/image-adf97b1b8bd9388ebbc89797a6eb793f.png" width="1024" height="1536" class="img_ev3q"></p>]]></content:encoded>
+            <category>website</category>
+        </item>
         <item>
             <title><![CDATA[Dodgeball]]></title>
             <link>https://github.com/deacons/activities/dodgeball</link>
@@ -294,58 +306,6 @@ Keyton: Delivered a solid performance, including an 11-7 win over Tucker.</p>
 <p><img decoding="async" loading="lazy" alt="021251628" src="https://github.com/deacons/assets/images/PXL_20250220_021251628.MP-85bfa89d4d46b8dcfb9173d775bdd8bd.jpg" width="4000" height="3000" class="img_ev3q">
 <img decoding="async" loading="lazy" alt="025035280" src="https://github.com/deacons/assets/images/PXL_20250220_025035280.MP-d1de124571a8b906cb52dc8cc43abd2a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
             <category>street-hockey</category>
-        </item>
-        <item>
-            <title><![CDATA[Citrus Picking]]></title>
-            <link>https://github.com/deacons/activities/service-project-citrus-picking</link>
-            <guid>https://github.com/deacons/activities/service-project-citrus-picking</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.]]></description>
-            <content:encoded><![CDATA[<p>Bishop was finally able to coordinate with Sister Madeline Smith, and I went over to visit her to discuss scheduling.</p>
-<p>Important Change:
-We’ll be meeting at 5:30 PM tonight instead of the usual 7:00 PM due to how early it gets dark. Having more daylight will likely help us be more productive.</p>
-<p>Here are the details:</p>
-<p>Subject: Fruit Picking at Sister Madeline Smith’s</p>
-<ul>
-<li>Location: Sister Madeline Smith’s home (near Ken off 183rd).</li>
-<li>Access: The south gate will be left unlocked for us to drive in. The fruit trees are accessible from there.</li>
-<li>Fruit Details:<!-- -->
-<ul>
-<li>6 fruit trees (type unknown) need to be picked.</li>
-<li>Sister Smith will keep some fruit for juicing but has indicated there will be plenty to share.</li>
-<li>Everyone who participates can likely take home a bag of citrus.</li>
-</ul>
-</li>
-</ul>
-<p>Logistics:</p>
-<ul>
-<li>Meeting Point: Ken’s house at 5:30 PM.</li>
-<li>Agenda:<!-- -->
-<ul>
-<li>Start with prayer and a brief message about service/priesthood responsibilities.</li>
-</ul>
-</li>
-</ul>
-<p>Supplies Needed:</p>
-<ul>
-<li>We will provide:<!-- -->
-<ul>
-<li>10 buckets</li>
-<li>A couple of boxes for fruit</li>
-<li>2 ladders</li>
-</ul>
-</li>
-<li>Participants should bring:<!-- -->
-<ul>
-<li>Headlamps or flashlights</li>
-<li>Gloves</li>
-<li>Pole pickers (if available) to reach high fruit.</li>
-</ul>
-</li>
-</ul>
-<p>Looking forward to working together on this service opportunity!</p>]]></content:encoded>
-            <category>service-project</category>
-            <category>citrus-picking</category>
         </item>
     </channel>
 </rss>
