@@ -9,7 +9,7 @@ title: Dalan
 2. Geocaching
 3. Water slides
 4. Dodgeball
-5. Footbal
+5. Football
 6. Soccer
 7. Stranger Things
 

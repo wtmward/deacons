@@ -16,7 +16,7 @@ title: Pierce
 ---
 
 - Pizookie
-- Geman Chocolate Cake
+- German Chocolate Cake
 - Mousse Cake
 - Carrot Cake
 - Pancakes

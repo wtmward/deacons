@@ -24,9 +24,9 @@ title: Kobe
 ---
 
 - Salmon
-- Talopia
+- Tilapia
 - Squid
-- Halobit
+- Halibut
 - Tuna
 - Crab
 - Shrimp

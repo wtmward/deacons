@@ -20,5 +20,5 @@ title: Nixon
 
 - Swimming
 - Skiing
-- Bingie-jumping
+- Bungee-jumping
 - Fishing
