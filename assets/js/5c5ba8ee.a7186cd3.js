@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeacons=self.webpackChunkdeacons||[]).push([[479],{9540:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/deacons/activities","page":1,"postsPerPage":10,"totalPages":3,"totalCount":28,"nextPage":"/deacons/activities/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
