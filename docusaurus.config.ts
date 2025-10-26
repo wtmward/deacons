@@ -40,8 +40,8 @@ const config: Config = {
       "classic",
       {
         docs: {
-          path: "deacons", // New folder name
-          routeBasePath: "deacons", // Optional: if you want the URL path to also change
+          path: "quorum", // New folder name
+          routeBasePath: "quorum", // Optional: if you want the URL path to also change
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -110,7 +110,7 @@ const config: Config = {
           items: [
             {
               label: "Deacons Quorum",
-              to: "/deacons",
+              to: "/quorum",
             },
           ],
         },
